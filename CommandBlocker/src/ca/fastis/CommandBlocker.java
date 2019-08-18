@@ -9,7 +9,7 @@ public class CommandBlocker extends JavaPlugin implements Listener{
 	
 	public void onEnable() {
 		server = this.getServer();
-		server.getConsoleSender().sendMessage("Command Blocker Enabled I guess");
+		server.getConsoleSender().sendMessage("Command Blocker Enabled");
 	}
 	
 	public void onDisable() {
