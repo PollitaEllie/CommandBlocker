@@ -1,0 +1,5 @@
+name: CommandBlocker
+main: ca.fastis.CommandBlocker
+version: 1.0
+author: _Auracle_,PollitaEllie
+api-version: 1.14
